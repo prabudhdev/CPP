@@ -8,4 +8,4 @@ int main() {
     cout << "Area of rectangle is : " << len * wid << endl;
     return 0 ;
 }
- 
+  
